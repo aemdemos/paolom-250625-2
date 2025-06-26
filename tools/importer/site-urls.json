@@ -1,0 +1,1968 @@
+{
+  "originUrl": "https://www.ica.gov.sg",
+  "lastCrawled": "https://www.ica.gov.sg/",
+  "urls": [
+    {
+      "url": "https://www.ica.gov.sg/",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "a3d3ee9b7295c9cd9bb39c63c7d1f3556c4af1fa"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/awards-accolades",
+      "source": "CRAWL",
+      "targetPath": "/about-us/awards-accolades",
+      "id": "ad7a05fcc38bb201d8e6233ce7c40fe17342e2a7"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-checkpoints",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-checkpoints",
+      "id": "a987ffee4872ae488f61db22f5b0676bdd6fd21f"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage",
+      "id": "503fb8639de8c48fd773736664b38da0d3165f8a"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/border-security-immigration",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/border-security-immigration",
+      "id": "d43ad648fb7d2ab3ba379f9cbb68abc1e6ff3556"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/border-security-immigration?target=item1",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/border-security-immigration",
+      "id": "32ecc123ce7484a13ba10300b9f6bc0a47cc95d4"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/border-security-immigration?target=item2",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/border-security-immigration",
+      "id": "156d5b3e806c3cc89f5fb7ef146d5766f523af7b"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/border-security-immigration?target=item3",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/border-security-immigration",
+      "id": "9dd212ed30819d06ee70243e64e5968279d958f5"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/border-security-immigration?target=item4",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/border-security-immigration",
+      "id": "88a3b3ca41f47082ae63efa554a95b82af621a69"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/guardians-of-our-borders",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/guardians-of-our-borders",
+      "id": "5c0a6a32bada1c36311066ef72287d195fa2c818"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/guardians-of-our-borders?target=item1",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/guardians-of-our-borders",
+      "id": "aef0281b980e99446891d36c65cbdb7d664d2951"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/guardians-of-our-borders?target=item2",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/guardians-of-our-borders",
+      "id": "9d5de2e6808304ea332ae280f6cfcc0218c4a2db"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/guardians-of-our-borders?target=item3",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/guardians-of-our-borders",
+      "id": "3bca6cf6773c7029491ae85403cac21c024b5f8e"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/guardians-of-our-borders?target=item4",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/guardians-of-our-borders",
+      "id": "5a150ba52f03ae1a4c0974995abd63a4e48d60a2"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/guardians-of-our-borders?target=item5",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/guardians-of-our-borders",
+      "id": "bc66bb4f254bb4333eedf9f9ac42d17cd63e84c7"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/guardians-of-our-borders?target=item6",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/guardians-of-our-borders",
+      "id": "92cf95fe372d6338dc82ed0e3ed456332fdcfbd9"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/national-registration-identification",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/national-registration-identification",
+      "id": "39f1ec8beda196eb5569a27b1ea77fdc19b78c2c"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/national-registration-identification?target=item1",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/national-registration-identification",
+      "id": "b6154c74051c329089ae3af30e177855824dc52f"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/national-registration-identification?target=item2",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/national-registration-identification",
+      "id": "301b5dac88b08d3f21193d38ffa14923c1f821ca"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/national-registration-identification?target=item3",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/national-registration-identification",
+      "id": "292f0ee3aef4364f62e969ad97f5289c9cca0f32"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/national-registration-identification?target=item4",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/national-registration-identification",
+      "id": "12c1dcff1eaaa7d830f725f6b37bc41d6da43a49"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/organisational-history",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/organisational-history",
+      "id": "ceffc25ec5406823dc5f5f2344b8a202faf5bd43"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/organisational-history?target=item1",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/organisational-history",
+      "id": "dbef3ee90ac01a1fb01fc37ba9f4fec3e849b256"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/organisational-history?target=item2",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/organisational-history",
+      "id": "fe5c1fba6681bad3cb24ff526290ba4dbed4bf4a"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/organisational-history?target=item3",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/organisational-history",
+      "id": "76241f24070c6a3db8ef1a5495dee6de90bfce16"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/organisational-history?target=item4",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/organisational-history",
+      "id": "a6c70344eee51902ee526969148db810484e289b"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-heritage/Room/organisational-history?target=item5",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-heritage/room/organisational-history",
+      "id": "9acfce6c9b1291daafae09fb73aff949a6aa47e2"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-people",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-people",
+      "id": "32f5c87d08a6c1ff12edf2cf7491d444fb2b70fa"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/our-service-commitment",
+      "source": "CRAWL",
+      "targetPath": "/about-us/our-service-commitment",
+      "id": "a41818cafab017025e9612437494db60a3d82624"
+    },
+    {
+      "url": "https://www.ica.gov.sg/about-us/vision-mission-values",
+      "source": "CRAWL",
+      "targetPath": "/about-us/vision-mission-values",
+      "id": "048313706ad5106c57e14ed0171dc95842a2ab7c"
+    },
+    {
+      "url": "https://www.ica.gov.sg/careers/career-faqs",
+      "source": "CRAWL",
+      "targetPath": "/careers/career-faqs",
+      "id": "70ab9c7ac5e8fa3b7b3a7df7112956d869793ae1"
+    },
+    {
+      "url": "https://www.ica.gov.sg/careers/civilian-officer",
+      "source": "CRAWL",
+      "targetPath": "/careers/civilian-officer",
+      "id": "a532b5f2b3a8afba5ff27ce1a37b885c958f1e42"
+    },
+    {
+      "url": "https://www.ica.gov.sg/careers/ica-inspector",
+      "source": "CRAWL",
+      "targetPath": "/careers/ica-inspector",
+      "id": "70c4e75d1202932feefb1f59d73a8f238d7153a0"
+    },
+    {
+      "url": "https://www.ica.gov.sg/careers/ica-sergeant",
+      "source": "CRAWL",
+      "targetPath": "/careers/ica-sergeant",
+      "id": "89f45e3da47a3ea9d1196cd9d6a4c0f962831a4f"
+    },
+    {
+      "url": "https://www.ica.gov.sg/careers/join-us",
+      "source": "CRAWL",
+      "targetPath": "/careers/join-us",
+      "id": "8bba7b06fa7bb27dcf9e67a5c7ae5e5347f8ce7b"
+    },
+    {
+      "url": "https://www.ica.gov.sg/careers/meet-our-officers",
+      "source": "CRAWL",
+      "targetPath": "/careers/meet-our-officers",
+      "id": "abbb715e46c8efbecb12713f88e17509d46ae309"
+    },
+    {
+      "url": "https://www.ica.gov.sg/careers/scholarships-sponsorships-internships",
+      "source": "CRAWL",
+      "targetPath": "/careers/scholarships-sponsorships-internships",
+      "id": "89ed0a64f970e2988900e4cf9b586fbe873fec94"
+    },
+    {
+      "url": "https://www.ica.gov.sg/check-status-make-appointment",
+      "source": "CRAWL",
+      "targetPath": "/check-status-make-appointment",
+      "id": "5bf09c1c9fa0239ec17ec92cc965e6b05c994f58"
+    },
+    {
+      "url": "https://www.ica.gov.sg/citizen/see-more",
+      "source": "CRAWL",
+      "targetPath": "/citizen/see-more",
+      "id": "2baaa1cc8bcd3ec4868d04165239fcb5f7314a26"
+    },
+    {
+      "url": "https://www.ica.gov.sg/contact-us",
+      "source": "CRAWL",
+      "targetPath": "/contact-us",
+      "id": "58f34149138db64fd41250a1d0690f42e8b58219"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents",
+      "source": "CRAWL",
+      "targetPath": "/documents",
+      "id": "956fcb40a921552c25faec2c20c326dc8f8e1db1"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/birth-certificate",
+      "source": "CRAWL",
+      "targetPath": "/documents/birth-certificate",
+      "id": "9008205f4df6bc2afae1815c4afb1b3e9c2def46"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/birth/alter-child-name",
+      "source": "CRAWL",
+      "targetPath": "/documents/birth/alter-child-name",
+      "id": "d72694d55847ce09f255eaa78f3c63aca783a383"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/birth/apply_extract",
+      "source": "CRAWL",
+      "targetPath": "/documents/birth/apply-extract",
+      "id": "b7825c17e5bad0d27b67c50fe34e2a7a8bb0218b"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/birth/birth_registration",
+      "source": "CRAWL",
+      "targetPath": "/documents/birth/birth-registration",
+      "id": "6773d3be1134f4fe406b2cfd1601b8f5a518eb03"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/certificate-of-identity",
+      "source": "CRAWL",
+      "targetPath": "/documents/certificate-of-identity",
+      "id": "c517da84cbbc108d9b237ee5c99d6fd7b79de82a"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/citizencert/replacement",
+      "source": "CRAWL",
+      "targetPath": "/documents/citizencert/replacement",
+      "id": "fb1776ff78757a967bf2b34c2df1212d0484d7d9"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/citizenship-certificate",
+      "source": "CRAWL",
+      "targetPath": "/documents/citizenship-certificate",
+      "id": "92946d81140f31e01253148cbef4251e6a73d67b"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/coi/apply",
+      "source": "CRAWL",
+      "targetPath": "/documents/coi/apply",
+      "id": "8c689adb0e74f8cb52251beb35401aa8e29a3be4"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/coi/update_particulars",
+      "source": "CRAWL",
+      "targetPath": "/documents/coi/update-particulars",
+      "id": "f19f5f715379005e78ef0e609c859526c6c54ef6"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/death-certificate",
+      "source": "CRAWL",
+      "targetPath": "/documents/death-certificate",
+      "id": "71ae7151d12d94d0bba8bc97ad1b35f9548d02ac"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/death/apply_extract",
+      "source": "CRAWL",
+      "targetPath": "/documents/death/apply-extract",
+      "id": "bcee4dcf0830b591bc7a0ebc74c44059c0bdb921"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/death/death_overseas",
+      "source": "CRAWL",
+      "targetPath": "/documents/death/death-overseas",
+      "id": "ec0e9db6191f7a38c26ab162cee699105843e858"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/death/death_registration",
+      "source": "CRAWL",
+      "targetPath": "/documents/death/death-registration",
+      "id": "51edbded9891687b72ee015212085b4f8e4a05bc"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/ic/collect",
+      "source": "CRAWL",
+      "targetPath": "/documents/ic/collect",
+      "id": "70e6acf8456e1d2741a25ab1230e9305c33a0a93"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/ic/loss",
+      "source": "CRAWL",
+      "targetPath": "/documents/ic/loss",
+      "id": "870271adfdaec278505a2e2a101957eba3ca8786"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/ic/re-registration",
+      "source": "CRAWL",
+      "targetPath": "/documents/ic/re-registration",
+      "id": "145e5e7ec748ae2103bbcba52679c1ab99e56e31"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/ic/registration",
+      "source": "CRAWL",
+      "targetPath": "/documents/ic/registration",
+      "id": "5b8d8a25f69cb38945d41d34672c264fe3881ea0"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/ic/update_particulars",
+      "source": "CRAWL",
+      "targetPath": "/documents/ic/update-particulars",
+      "id": "a8b0897bb5851430a62481d381efe6e342f49281"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/ic/update_residential_address",
+      "source": "CRAWL",
+      "targetPath": "/documents/ic/update-residential-address",
+      "id": "abc1ed16ff90c908fc70171a033d36dd6985ca4a"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/identity-cards",
+      "source": "CRAWL",
+      "targetPath": "/documents/identity-cards",
+      "id": "23f82fbb9e447d9d8bc310a0a40cfddbbc0af035"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/identity-cards/change-of-race",
+      "source": "CRAWL",
+      "targetPath": "/documents/identity-cards/change-of-race",
+      "id": "8199072f9aa56c2259b841bc0b841f89cece07c6"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/passport/apply",
+      "source": "CRAWL",
+      "targetPath": "/documents/passport/apply",
+      "id": "4f3b94e91d7dcffba45c3f37302f41f4211046e6"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/passport/collect",
+      "source": "CRAWL",
+      "targetPath": "/documents/passport/collect",
+      "id": "d12c3d204b7842cb75460cef2b01256e4d43b1c2"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/passport/damage",
+      "source": "CRAWL",
+      "targetPath": "/documents/passport/damage",
+      "id": "6fb723412cce2e5b79bd379aeb4e43f81278a4f1"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/passport/loss",
+      "source": "CRAWL",
+      "targetPath": "/documents/passport/loss",
+      "id": "f7086f836c061919a949fc44dad1f47a19fc6348"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/singapore-passport",
+      "source": "CRAWL",
+      "targetPath": "/documents/singapore-passport",
+      "id": "ceb5c1bcc8da9705695daac2d29b1c7d102f4289"
+    },
+    {
+      "url": "https://www.ica.gov.sg/documents/stillbirth-certificate/register-and-download-digital-stillbirth-certificate",
+      "source": "CRAWL",
+      "targetPath": "/documents/stillbirth-certificate/register-and-download-digital-stillbirth-certificate",
+      "id": "29701e5c6e8bbfb09717918aaa1a682ed662700c"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-depart/checkpoints/driving",
+      "source": "CRAWL",
+      "targetPath": "/enter-depart/checkpoints/driving",
+      "id": "3f3ebfe58999b65207906907d860cbe3179bd7da"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-depart/checkpoints/three-quarter_tank_rule",
+      "source": "CRAWL",
+      "targetPath": "/enter-depart/checkpoints/three-quarter-tank-rule",
+      "id": "9a525d38d60f0b31a33fdc2f7b42a53cff594e41"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-depart/checkpoints/trafficupdates",
+      "source": "CRAWL",
+      "targetPath": "/enter-depart/checkpoints/trafficupdates",
+      "id": "8a0b298a27cf6505ad90f691d56549ef1750a981"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-depart/extend_short_stay",
+      "source": "CRAWL",
+      "targetPath": "/enter-depart/extend-short-stay",
+      "id": "87061a4c30773443319c460370a26a00d3c1bb59"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-depart/for-PR/check-REP-validity",
+      "source": "CRAWL",
+      "targetPath": "/enter-depart/for-pr/check-rep-validity",
+      "id": "502b600ce08b1267abf546c5189ebe903e2638f2"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-depart/for-singapore-citizens/advice-for-travelling-abroad",
+      "source": "CRAWL",
+      "targetPath": "/enter-depart/for-singapore-citizens/advice-for-travelling-abroad",
+      "id": "d227b932ca495a3a31ec5a63474958d1228b04d0"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-depart/for-singapore-citizens/apec-business-travel-card",
+      "source": "CRAWL",
+      "targetPath": "/enter-depart/for-singapore-citizens/apec-business-travel-card",
+      "id": "3caa8a438f762c1b23b881ea122103b7a40442e2"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-depart/for-singapore-citizens/child-born-overseas",
+      "source": "CRAWL",
+      "targetPath": "/enter-depart/for-singapore-citizens/child-born-overseas",
+      "id": "ad58d2550591e71dc74a0f5a4ac869928328f2c4"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-depart/for-singapore-citizens/overseas-automated-clearance",
+      "source": "CRAWL",
+      "targetPath": "/enter-depart/for-singapore-citizens/overseas-automated-clearance",
+      "id": "f911991dce3f8c1895746a824736db79049a41ad"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-depart/for-singapore-citizens/renunciation",
+      "source": "CRAWL",
+      "targetPath": "/enter-depart/for-singapore-citizens/renunciation",
+      "id": "f65c38648d6ea0c637f436c6ef34b495d9020ba7"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-depart/for-visitors/ACI",
+      "source": "CRAWL",
+      "targetPath": "/enter-depart/for-visitors/aci",
+      "id": "cb161a944601cb65cd4e0827d11446924038ffd1"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-depart/for-visitors/tourist-refund-scheme",
+      "source": "CRAWL",
+      "targetPath": "/enter-depart/for-visitors/tourist-refund-scheme",
+      "id": "e48a29b44e66c4ed7cffe391f0ae3f5a4adbd556"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart",
+      "id": "14d27c78757dedd68db9b1abbed7d8bb7bc9cb09"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/at-our-checkpoints",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/at-our-checkpoints",
+      "id": "d3583e5212e1f0fae02b3897e9683624ab6f93aa"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/at-our-checkpoints/cargo_postal_info",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/at-our-checkpoints/cargo-postal-info",
+      "id": "66f86d451947f2e773813a2d663d54c2ebb4a108"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/at-our-checkpoints/for-travellers",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/at-our-checkpoints/for-travellers",
+      "id": "103116025f9886206c622f72815dddf6581f1301"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/at-our-checkpoints/for-travellers/automated-lanes",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/at-our-checkpoints/for-travellers/automated-lanes",
+      "id": "e3806540548de0c7e2f54a795f7ce6ce0ba40a1e"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/at-our-checkpoints/for-travellers/baggage-clearance",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/at-our-checkpoints/for-travellers/baggage-clearance",
+      "id": "b7803aa6a028707a811492ebacb7e842ba039f08"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/at-our-checkpoints/for-travellers/BIKES",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/at-our-checkpoints/for-travellers/bikes",
+      "id": "88360bf4c7138f2a359b6fec95f8f1237ebe6e1d"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/at-our-checkpoints/for-travellers/CBNI",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/at-our-checkpoints/for-travellers/cbni",
+      "id": "413f49da620dc85bec21a8ddd7152443c95e9a9a"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/at-our-checkpoints/for-travellers/MMBS",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/at-our-checkpoints/for-travellers/mmbs",
+      "id": "2cd6aa5d12717e4bd515f0a6707abfa16125a7db"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/at-our-checkpoints/for-travellers/retrieval-of-electronic-visit-pass",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/at-our-checkpoints/for-travellers/retrieval-of-electronic-visit-pass",
+      "id": "68c9e9e5f7135d348331a8c8a40eaf686db93aaa"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/at-our-checkpoints/sea_crew_info",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/at-our-checkpoints/sea-crew-info",
+      "id": "10ab57872cebeba752e926f76aaf4d7cea9f7b43"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/at-our-checkpoints/use-of-qr-code-for-immigration-clearance-at-woodlands-and-tuas-checkpoints",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/at-our-checkpoints/use-of-qr-code-for-immigration-clearance-at-woodlands-and-tuas-checkpoints",
+      "id": "461e2a88035d2d9085c2affc8f1c440a47797476"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/at-our-checkpoints/use-of-qr-code-for-immigration-clearance-at-woodlands-and-tuas-checkpoints/",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/at-our-checkpoints/use-of-qr-code-for-immigration-clearance-at-woodlands-and-tuas-checkpoints",
+      "id": "8395b4e35b292d9bcb0eba3dbb88021faff801d4"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/departing-singapore",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/departing-singapore",
+      "id": "fd46a782fc4d5b65a2043367e941d969fbebb0e1"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore",
+      "id": "33b42ad274a97a66213a141025414a00dae31dc5"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/sg-arrival-card",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/sg-arrival-card",
+      "id": "3cb4f7d56c8aa4a233958ee6bf31d32de7ec87d4"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements",
+      "id": "5d83519904c50777580420403bc535f75f54682f"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/document-of-identity-issued-by-hong-kong-special-administrative-region",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/document-of-identity-issued-by-hong-kong-special-administrative-region",
+      "id": "dbeb326693c29e60ec18f2d895c8f28748f4ce11"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/palestinian-authority-passport",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/palestinian-authority-passport",
+      "id": "8ceca88c9c1254f5174d78ac5bbd01cdd37726d6"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/prc-travel-document",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/prc-travel-document",
+      "id": "1cdca2d29deb73c16ef40cf08ab545f5b285bf85"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/temporary-passport-issued-by-the-united-arab-emirates",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/temporary-passport-issued-by-the-united-arab-emirates",
+      "id": "460550b3cec63b4be24db2570cd3fce67cf802ea"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/travel-permit-issued-by-macao-special-administrative-region",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/travel-permit-issued-by-macao-special-administrative-region",
+      "id": "b996f7f4368f81bd2d110864c1a0a4f4e96f7b41"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/afghanistan",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/afghanistan",
+      "id": "9a2700f8f42843f4e2eca1faa055eeb6fb9cdf17"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/algeria",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/algeria",
+      "id": "1490b756f3069a6840e2e5515c24f665e3257245"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/armenia",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/armenia",
+      "id": "89da64716e6fb571a6212e257236a505b524a079"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/azerbaijan",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/azerbaijan",
+      "id": "26c88646b4dfa575b0d4c628887eeda2e569a36c"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/bangladesh",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/bangladesh",
+      "id": "0a7fc76b397b89f09b99674ceea4d8246bcba7d7"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/belarus",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/belarus",
+      "id": "974caebcc492d1cb53de5d5bfe0d48df658e42d0"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/egypt",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/egypt",
+      "id": "e2e188435edb97945e6eef08be02c60dfc6d3fdf"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/georgia",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/georgia",
+      "id": "ffb7149ebb0ffb9f6ed8fa90e8f634d27abce9e5"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/india",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/india",
+      "id": "27d7348b2e8efbce6568dfb78a2c32c47e5206fc"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/iran",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/iran",
+      "id": "687a18155fcdbac79193ad07ee2c79d6a6fbdccf"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/iraq",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/iraq",
+      "id": "1ab56bc3738ff9557dce8eb13b318e2bcd88aacc"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/jordan",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/jordan",
+      "id": "e1068db0a561661d9680996319568817a35c04b7"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/kazakhstan",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/kazakhstan",
+      "id": "5fbd5b06772e9effa3167753b785adcdd8a28da7"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/kosovo",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/kosovo",
+      "id": "dfa74b6cf920a14fe5ca4b07586f581e0e9b3c08"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/kyrgyzstan",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/kyrgyzstan",
+      "id": "7f2cc535dc492413dbd66a38c311d16d4adbd931"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/lebanon",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/lebanon",
+      "id": "c488dad698be4843334acc37fddc5db4b5dd3012"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/libya",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/libya",
+      "id": "f6c934d5e86546748f231ce8e4d1c6b7d56d2b0b"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/mali",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/mali",
+      "id": "00092eeb6394a51c37c5214080a87deff62f5433"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/moldova",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/moldova",
+      "id": "8aa15d2688f01eae38d57494d37b1c7ec7f2fdc5"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/morocco",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/morocco",
+      "id": "168bc1c5d7d9506d2b3958bb77929c1b8cd5dcae"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/nigeria",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/nigeria",
+      "id": "ce50fcb1fe06e8a8f697795f23de3d44fa09ced5"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/pakistan",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/pakistan",
+      "id": "f4f319473cb933efa0937b446eaee0aa24a5b00a"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/russia",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/russia",
+      "id": "2c2270e7681ce85c9759d72c5fd015a67eefa0c1"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/somalia",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/somalia",
+      "id": "f42ad34e90df37d53be6c3269140fa132121c749"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/south-sudan",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/south-sudan",
+      "id": "a8c7bafe1c1954ffe5c1f67669d15185235abd21"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/sudan",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/sudan",
+      "id": "0e8adbc333759b457f30da4763a24310eaec8559"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/syria",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/syria",
+      "id": "341e6448079be0723bcf1c02d154a1dce100163c"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/tajikistan",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/tajikistan",
+      "id": "b718760bf0d95301e325293427295cd27ad5da86"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/tunisia",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/tunisia",
+      "id": "1c4c471ba4ab51f00861f58ee61147ed477484a1"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/turkmenistan",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/turkmenistan",
+      "id": "1f97f755cf02576fd53ee1eaf9b7eabc6fa50f85"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/ukraine",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/ukraine",
+      "id": "4c97db00caf905d55f4f095533deef0e5fdad24b"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/uzbekistan",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/uzbekistan",
+      "id": "9613d6c3e1c6cd58bf496a16c66d6b5f5bab7f82"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/yemen",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-requirements/visa-detail-page/yemen",
+      "id": "69685edee155ee5fbdab1d735204f0511a8ea773"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa-free-transit-facility",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/visa-free-transit-facility",
+      "id": "107057928665169b08ae709f16bbe1134ea05a87"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/what-you-can-bring",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/what-you-can-bring",
+      "id": "d56d462be27eab2220ff8c9c5f9be2060f17d9ae"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/what-you-can-bring/prohibited-controlled-dutiable-goods",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/what-you-can-bring/prohibited-controlled-dutiable-goods",
+      "id": "251eeb83dd494b2dd905152a14783d2a10b5cf53"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/yellow-fever-vaccination-certificate",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/entering-singapore/yellow-fever-vaccination-certificate",
+      "id": "e3a95cd063f6d9f9d4912ccf1c57dcdb360b8c73"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/extend-stay",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/extend-stay",
+      "id": "b79b8b5e126731045ad23729f7c91459431c3e51"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/more-information",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/more-information",
+      "id": "28c5fa770c415502ca897bbe2a976ecb34e79fd8"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/more-information/for-permanent-residents/renunciation-of-permanent-residence",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/more-information/for-permanent-residents/renunciation-of-permanent-residence",
+      "id": "a67f0b2b8a55d1bd7358f91b03cb4b6eb75e6772"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/transiting-singapore",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/transiting-singapore",
+      "id": "881d8aa9c9ded7a47b63997508cbcb24007295f6"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/visit-pass-validity-tool",
+      "source": "CRAWL",
+      "targetPath": "/enter-transit-depart/visit-pass-validity-tool",
+      "id": "beeff702100c776519a14f8cb7ae4a0fc0c0b385"
+    },
+    {
+      "url": "https://www.ica.gov.sg/eservicesandforms",
+      "source": "CRAWL",
+      "targetPath": "/eservicesandforms",
+      "id": "ba5e8c43da170aa6e9d00e8d2942e0f94b2b2104"
+    },
+    {
+      "url": "https://www.ica.gov.sg/eservicesandforms/all-forms",
+      "source": "CRAWL",
+      "targetPath": "/eservicesandforms/all-forms",
+      "id": "98d4bf5de76da4fb846fc072e0459d479d80c190"
+    },
+    {
+      "url": "https://www.ica.gov.sg/feedbackform",
+      "source": "CRAWL",
+      "targetPath": "/feedbackform",
+      "id": "fe47e1c2baa499c3093f5038fd9ccc3657052141"
+    },
+    {
+      "url": "https://www.ica.gov.sg/home",
+      "source": "CRAWL",
+      "targetPath": "/home",
+      "id": "31752d0d25a7be8e9882cf4a6d60585555947006"
+    },
+    {
+      "url": "https://www.ica.gov.sg/news-and-publications/ica-annuals",
+      "source": "CRAWL",
+      "targetPath": "/news-and-publications/ica-annuals",
+      "id": "33e98b6759346cb7908c8a62a94c4f8efa1a1ec7"
+    },
+    {
+      "url": "https://www.ica.gov.sg/news-and-publications/newsroom",
+      "source": "CRAWL",
+      "targetPath": "/news-and-publications/newsroom",
+      "id": "c0509e496dbba89ec1e955e15443f004ee52dc09"
+    },
+    {
+      "url": "https://www.ica.gov.sg/news-and-publications/newsroom/media-release/14370",
+      "source": "CRAWL",
+      "targetPath": "/news-and-publications/newsroom/media-release/14370",
+      "id": "286bdbdfe7d82bc5a13e423789619d4048abe32c"
+    },
+    {
+      "url": "https://www.ica.gov.sg/news-and-publications/newsroom/media-release/car-travellers-can-use-qr-code-for-faster-and-more-convenient-immigration-clearance-at-singapore-s-land-checkpoints-from-19-march-2024",
+      "source": "CRAWL",
+      "targetPath": "/news-and-publications/newsroom/media-release/car-travellers-can-use-qr-code-for-faster-and-more-convenient-immigration-clearance-at-singapore-s-land-checkpoints-from-19-march-2024",
+      "id": "5d212c6ebf3c5355b3b7bb43d1615cb1ddb58ab9"
+    },
+    {
+      "url": "https://www.ica.gov.sg/news-and-publications/publications",
+      "source": "CRAWL",
+      "targetPath": "/news-and-publications/publications",
+      "id": "0bb562ec391217a0cf144f5eefc1d199ee78f915"
+    },
+    {
+      "url": "https://www.ica.gov.sg/news-and-publications/statistics",
+      "source": "CRAWL",
+      "targetPath": "/news-and-publications/statistics",
+      "id": "462b55350240f4f8b0b6da1f06402242d73a94cb"
+    },
+    {
+      "url": "https://www.ica.gov.sg/news-and-publications/statistics/ica-annual-statistics-2010",
+      "source": "CRAWL",
+      "targetPath": "/news-and-publications/statistics/ica-annual-statistics-2010",
+      "id": "03e914c73674bdbf3d05b1651c983c9662c4420f"
+    },
+    {
+      "url": "https://www.ica.gov.sg/news-and-publications/statistics/ica-annual-statistics-2011",
+      "source": "CRAWL",
+      "targetPath": "/news-and-publications/statistics/ica-annual-statistics-2011",
+      "id": "16db42e2d80164528b33aa7bfc697ec84407040c"
+    },
+    {
+      "url": "https://www.ica.gov.sg/news-and-publications/statistics/ica-annual-statistics-2012",
+      "source": "CRAWL",
+      "targetPath": "/news-and-publications/statistics/ica-annual-statistics-2012",
+      "id": "6afab8447d6e51a6a3d0a081ee68aeba42a6035d"
+    },
+    {
+      "url": "https://www.ica.gov.sg/news-and-publications/statistics/ica-annual-statistics-2013",
+      "source": "CRAWL",
+      "targetPath": "/news-and-publications/statistics/ica-annual-statistics-2013",
+      "id": "d06506fa83fd01c809d333c6c4f0fab488d34e16"
+    },
+    {
+      "url": "https://www.ica.gov.sg/news-and-publications/statistics/ica-annual-statistics-2014",
+      "source": "CRAWL",
+      "targetPath": "/news-and-publications/statistics/ica-annual-statistics-2014",
+      "id": "0c6434edeb45fbaa4813482c66adb7d0a62f6671"
+    },
+    {
+      "url": "https://www.ica.gov.sg/news-and-publications/statistics/ica-annual-statistics-2015",
+      "source": "CRAWL",
+      "targetPath": "/news-and-publications/statistics/ica-annual-statistics-2015",
+      "id": "16355f99c9635bc362c06b4a2da145d8bfec5c1f"
+    },
+    {
+      "url": "https://www.ica.gov.sg/news-and-publications/statistics/ica-annual-statistics-2016",
+      "source": "CRAWL",
+      "targetPath": "/news-and-publications/statistics/ica-annual-statistics-2016",
+      "id": "9eff6848155eebf6c0e8c2ad247391d73da502f7"
+    },
+    {
+      "url": "https://www.ica.gov.sg/news-and-publications/statistics/ica-annual-statistics-2017",
+      "source": "CRAWL",
+      "targetPath": "/news-and-publications/statistics/ica-annual-statistics-2017",
+      "id": "681c8935107461d2beabc7c262c3b93620ebbaac"
+    },
+    {
+      "url": "https://www.ica.gov.sg/pass/see-more",
+      "source": "CRAWL",
+      "targetPath": "/pass/see-more",
+      "id": "d00d8c3a2d9ea5dc52c7bdddfbb2a4235be744b4"
+    },
+    {
+      "url": "https://www.ica.gov.sg/payment-refund",
+      "source": "CRAWL",
+      "targetPath": "/payment-refund",
+      "id": "b8cff034483a1a477d20ec7ed0e42ed516451f3f"
+    },
+    {
+      "url": "https://www.ica.gov.sg/photo-guidelines",
+      "source": "CRAWL",
+      "targetPath": "/photo-guidelines",
+      "id": "2523251af0436fd289a6032314f89f0d7950e7dc"
+    },
+    {
+      "url": "https://www.ica.gov.sg/PR/see-more",
+      "source": "CRAWL",
+      "targetPath": "/pr/see-more",
+      "id": "ee3b8f5445b84e71138ca2026cf53fbec2df50f5"
+    },
+    {
+      "url": "https://www.ica.gov.sg/privacy-statement",
+      "source": "CRAWL",
+      "targetPath": "/privacy-statement",
+      "id": "7938494f0af5bead350531eeb9997db04de8a365"
+    },
+    {
+      "url": "https://www.ica.gov.sg/public-education",
+      "source": "CRAWL",
+      "targetPath": "/public-education",
+      "id": "57a8e5752dbc9eb6146dec4c9a847de9d77a6bbe"
+    },
+    {
+      "url": "https://www.ica.gov.sg/public-education/advisory-on-fake-or-misleading-websites",
+      "source": "CRAWL",
+      "targetPath": "/public-education/advisory-on-fake-or-misleading-websites",
+      "id": "d3922a577636eec999b0469337732d28e968272d"
+    },
+    {
+      "url": "https://www.ica.gov.sg/public-education/anti-harbouring",
+      "source": "CRAWL",
+      "targetPath": "/public-education/anti-harbouring",
+      "id": "526379bedd4c4bc6b390a35d2b78210473e37d94"
+    },
+    {
+      "url": "https://www.ica.gov.sg/public-education/apply-long-term-immigration-facilities-through-commercial-entities",
+      "source": "CRAWL",
+      "targetPath": "/public-education/apply-long-term-immigration-facilities-through-commercial-entities",
+      "id": "7cd0afad7a7e1de92d0d432e9f6ff363769e948e"
+    },
+    {
+      "url": "https://www.ica.gov.sg/public-education/ica_services_centre",
+      "source": "CRAWL",
+      "targetPath": "/public-education/ica-services-centre",
+      "id": "bb444a44a7bc05f2e3be7819c257549bd7f17531"
+    },
+    {
+      "url": "https://www.ica.gov.sg/public-education/iris-enrolment",
+      "source": "CRAWL",
+      "targetPath": "/public-education/iris-enrolment",
+      "id": "0b10a71007207a62fbf8630ba84dfac87c18f0e3"
+    },
+    {
+      "url": "https://www.ica.gov.sg/public-education/myica-mobile",
+      "source": "CRAWL",
+      "targetPath": "/public-education/myica-mobile",
+      "id": "f4825b4a9a1e70551e44d7b937a35df7d472cc03"
+    },
+    {
+      "url": "https://www.ica.gov.sg/public-education/public-advisory-on-the-submission-of-sg-arrival-card-(sgac)",
+      "source": "CRAWL",
+      "targetPath": "/public-education/public-advisory-on-the-submission-of-sg-arrival-card-sgac",
+      "id": "d9193705811df844b1040bce0855011db817b197"
+    },
+    {
+      "url": "https://www.ica.gov.sg/public-education/special-pass",
+      "source": "CRAWL",
+      "targetPath": "/public-education/special-pass",
+      "id": "c519939a0bdce1bb2a5bb6734e0746d7949748af"
+    },
+    {
+      "url": "https://www.ica.gov.sg/public-education/visiting-singapore",
+      "source": "CRAWL",
+      "targetPath": "/public-education/visiting-singapore",
+      "id": "a8e27098caab1394543c6d652b8d8f0fcb208ecf"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside",
+      "source": "CRAWL",
+      "targetPath": "/reside",
+      "id": "235f00252b972c2214c0c77a50039610012224a2"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/citizenship",
+      "source": "CRAWL",
+      "targetPath": "/reside/citizenship",
+      "id": "28bc11c77b57d8ed76f39891b36ad6b3d6da16b7"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/citizenship/apply",
+      "source": "CRAWL",
+      "targetPath": "/reside/citizenship/apply",
+      "id": "be30dbd3e74fd39813e87027e740d2ec64bb53d0"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/citizenship/confirmation",
+      "source": "CRAWL",
+      "targetPath": "/reside/citizenship/confirmation",
+      "id": "c3b71d717a958af0b005f5c482042643713cf3a3"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/citizenship/minor-oath-taking",
+      "source": "CRAWL",
+      "targetPath": "/reside/citizenship/minor-oath-taking",
+      "id": "64955be34dcdf0686402d366b2c91aeda93b3fed"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/citizenship/roe",
+      "source": "CRAWL",
+      "targetPath": "/reside/citizenship/roe",
+      "id": "e52c1098d1bbf4f59902d05f3c2943d0f8458ddb"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/LTVP",
+      "source": "CRAWL",
+      "targetPath": "/reside/ltvp",
+      "id": "fff30851c222b71ec0f1a8c55b335f571996217b"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/LTVP/apply",
+      "source": "CRAWL",
+      "targetPath": "/reside/ltvp/apply",
+      "id": "0cc52f4e8df6cd3aa9b0ef73f6ef70aa4176a3f7"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/LTVP/apply/child-(aged-under-21)-of-a-singapore-citizen-(sc)-or-singapore-permanent-resident-(pr)",
+      "source": "CRAWL",
+      "targetPath": "/reside/ltvp/apply/child-aged-under-21-of-a-singapore-citizen-sc-or-singapore-permanent-resident-pr",
+      "id": "adc0582a2dd3749c96f2341e79c8c8920e793696"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/LTVP/apply/graduate-from-an-institute-of-higher-learning-seeking-employment-in-singapore",
+      "source": "CRAWL",
+      "targetPath": "/reside/ltvp/apply/graduate-from-an-institute-of-higher-learning-seeking-employment-in-singapore",
+      "id": "e419f692dadbd5ff94b8bea19d9d014429670fa1"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/LTVP/apply/graduate-from-an-institute-of-higher-learning-seeking-employment-in-singapore/list_ihl",
+      "source": "CRAWL",
+      "targetPath": "/reside/ltvp/apply/graduate-from-an-institute-of-higher-learning-seeking-employment-in-singapore/list-ihl",
+      "id": "4e18e21178c72dace16192c23717b1549852fb05"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/LTVP/apply/parent-of-a-singapore-citizen-(sc)-or-singapore-permanent-resident-(pr)",
+      "source": "CRAWL",
+      "targetPath": "/reside/ltvp/apply/parent-of-a-singapore-citizen-sc-or-singapore-permanent-resident-pr",
+      "id": "c59efdd2979fa7876f4f970cf9fff1ab6efeb708"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/LTVP/apply/parent-or-grandparent-of-a-child-or-grandchild-studying-in-singapore-on-a-students-pass",
+      "source": "CRAWL",
+      "targetPath": "/reside/ltvp/apply/parent-or-grandparent-of-a-child-or-grandchild-studying-in-singapore-on-a-students-pass",
+      "id": "3a98f0a68fca198ee47f26e84ddc88cc5c5f7a44"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/LTVP/apply/spouse-of-a-singapore-citizen-(sc)",
+      "source": "CRAWL",
+      "targetPath": "/reside/ltvp/apply/spouse-of-a-singapore-citizen-sc",
+      "id": "2d6f0cac2a6b58e27abf24d61283921450d971d2"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/LTVP/apply/spouse-of-a-singapore-permanent-resident-(pr)",
+      "source": "CRAWL",
+      "targetPath": "/reside/ltvp/apply/spouse-of-a-singapore-permanent-resident-pr",
+      "id": "9cf1e7535017150a9fe8cae3c8c38b316e189051"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/LTVP/apply/visitor-seeking-permission-to-give-birth-in-singapore",
+      "source": "CRAWL",
+      "targetPath": "/reside/ltvp/apply/visitor-seeking-permission-to-give-birth-in-singapore",
+      "id": "3a817a4f3ff878ba20f82be58c9690819bbf5274"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/LTVP/cof-and-issue",
+      "source": "CRAWL",
+      "targetPath": "/reside/ltvp/cof-and-issue",
+      "id": "876742919711481d61feb0f1b4576548214c4cc0"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/LTVP/cof-and-issue-new",
+      "source": "CRAWL",
+      "targetPath": "/reside/ltvp/cof-and-issue-new",
+      "id": "39f81ab4c7cb797732be73c163cca4bf5aa09147"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/LTVP/update-particulars",
+      "source": "CRAWL",
+      "targetPath": "/reside/ltvp/update-particulars",
+      "id": "9cd12c2dc522d2fefff58f7988fa247ca8bbfe7d"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/PMLA",
+      "source": "CRAWL",
+      "targetPath": "/reside/pmla",
+      "id": "6cbd8ac933f55beaf7682e988e1fe86d0c36205f"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/PR",
+      "source": "CRAWL",
+      "targetPath": "/reside/pr",
+      "id": "c292bd2f15afcd47fc304384d89747b40fdb33da"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/PR/apply",
+      "source": "CRAWL",
+      "targetPath": "/reside/pr/apply",
+      "id": "07f5ec26bddd1fdd2f0d26bad44d3afc6f7d4726"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/PR/apply-REP",
+      "source": "CRAWL",
+      "targetPath": "/reside/pr/apply-rep",
+      "id": "021db3c4ce46521c66234aa1c494ec57bb47cffb"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/PR/transfer-REP",
+      "source": "CRAWL",
+      "targetPath": "/reside/pr/transfer-rep",
+      "id": "ae36364f7e1a3b4fb26e9c3ef529832d29e4e551"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/PR/transfer-REP/foreign-passport/report-loss",
+      "source": "CRAWL",
+      "targetPath": "/reside/pr/transfer-rep/foreign-passport/report-loss",
+      "id": "7bdc2f5b21d5464451bdd62d8315fa4f15c0a182"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/pre-marriage-long-term-visit-pass-assessment",
+      "source": "CRAWL",
+      "targetPath": "/reside/pre-marriage-long-term-visit-pass-assessment",
+      "id": "642b967e2988d6aec1379fa2809a29b9a327446a"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/STP",
+      "source": "CRAWL",
+      "targetPath": "/reside/stp",
+      "id": "a8643096f35a6a60efa7fd8d9f1d60a32a2a2019"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/STP/apply",
+      "source": "CRAWL",
+      "targetPath": "/reside/stp/apply",
+      "id": "17e22d3c306e2359f7eeebe0314a27362c083453"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/STP/apply/fss",
+      "source": "CRAWL",
+      "targetPath": "/reside/stp/apply/fss",
+      "id": "f2b6c3a4f2a8dd1c3bf17ea19959e741f7923290"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/STP/apply/gov",
+      "source": "CRAWL",
+      "targetPath": "/reside/stp/apply/gov",
+      "id": "4b11815340334f47f60fac4cb668747e02e5b399"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/STP/apply/ihl",
+      "source": "CRAWL",
+      "targetPath": "/reside/stp/apply/ihl",
+      "id": "083e680646063181ee332eed8403f897233c9105"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/STP/apply/ite",
+      "source": "CRAWL",
+      "targetPath": "/reside/stp/apply/ite",
+      "id": "d0ec596a335412a36f99bc027f3f789cb92179be"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/STP/apply/msf",
+      "source": "CRAWL",
+      "targetPath": "/reside/stp/apply/msf",
+      "id": "6efbdeefeb4086ebd32081d27d92b90bdef43e4a"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/STP/apply/pei",
+      "source": "CRAWL",
+      "targetPath": "/reside/stp/apply/pei",
+      "id": "c38ef3509ca8739af6de93b6120a61f294b5bb21"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/STP/cancel",
+      "source": "CRAWL",
+      "targetPath": "/reside/stp/cancel",
+      "id": "fd55aceab2efe9543d9c6892b80fff700cfd48da"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/STP/change-address",
+      "source": "CRAWL",
+      "targetPath": "/reside/stp/change-address",
+      "id": "bafd590d7e1e03c70429e0e575de2fa81d496629"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/STP/collect",
+      "source": "CRAWL",
+      "targetPath": "/reside/stp/collect",
+      "id": "d1fbfc77ef53cc4be4387049fbcfaf97b3f0bbdd"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/STP/loss-damage",
+      "source": "CRAWL",
+      "targetPath": "/reside/stp/loss-damage",
+      "id": "b5e52eabb56466a670c92af6f11bd89f86acff7e"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/STP/sponsor",
+      "source": "CRAWL",
+      "targetPath": "/reside/stp/sponsor",
+      "id": "76723202ee8fc38b408fd219e93c5cdfc4fea106"
+    },
+    {
+      "url": "https://www.ica.gov.sg/search-results",
+      "source": "CRAWL",
+      "targetPath": "/search-results",
+      "id": "6cfecd6d2c5bed5a5a5f05042818d247d85d44c8"
+    },
+    {
+      "url": "https://www.ica.gov.sg/sitemap",
+      "source": "CRAWL",
+      "targetPath": "/sitemap",
+      "id": "9c3c7355b18883ba3fa77f816222cb1f256161f0"
+    },
+    {
+      "url": "https://www.ica.gov.sg/technical",
+      "source": "CRAWL",
+      "targetPath": "/technical",
+      "id": "e7869be973c66fcae5d25d85322eb2d818bd6253"
+    },
+    {
+      "url": "https://www.ica.gov.sg/terms-of-use",
+      "source": "CRAWL",
+      "targetPath": "/terms-of-use",
+      "id": "22a1456e854caf5bf67d3d96f7f491388343d03b"
+    },
+    {
+      "url": "https://www.ica.gov.sg/user-research",
+      "source": "CRAWL",
+      "targetPath": "/user-research",
+      "id": "caea2ecb5f899621f5da96b0e35ae3d370156a7a"
+    },
+    {
+      "url": "https://www.ica.gov.sg/visit_pass_validity_tool",
+      "source": "CRAWL",
+      "targetPath": "/visit-pass-validity-tool",
+      "id": "20d8d958dcb250d1a6c869d00b0a564e1c054948"
+    },
+    {
+      "url": "https://www.ica.gov.sg/visitor/see-more",
+      "source": "CRAWL",
+      "targetPath": "/visitor/see-more",
+      "id": "b18852cbce975e787de6c4faf345f6aeeffa908a"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.ica.gov.sg/esvclandingpage/erep2",
+      "status": "301 Moved Permanently Redirect: http://eservices.ica.gov.sg/esvclandingpage/erep2"
+    },
+    {
+      "url": "https://www.ica.gov.sg/esvclandingpage/erep3",
+      "status": "301 Moved Permanently Redirect: http://eservices.ica.gov.sg/esvclandingpage/erep3"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/formsg---cancellation-of-long-term-visit-pass",
+      "status": "301 Moved Permanently Redirect: http://go.gov.sg/ltvp-cancellation"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/app-links/lifesg-app-store",
+      "status": "301 Moved Permanently Redirect: https://apps.apple.com/sg/app/lifesg/id1383218758"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/app-links/myica-app-store",
+      "status": "301 Moved Permanently Redirect: https://apps.apple.com/us/app/myica-mobile/id1584952674"
+    },
+    {
+      "url": "https://www.ica.gov.sg/faqs",
+      "status": "301 Moved Permanently Redirect: https://ask.gov.sg/ica"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/askgov-identity-card-faqs",
+      "status": "301 Moved Permanently Redirect: https://ask.gov.sg/ica?topic=Identity%20Card%20(IC)"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/askgov-passport-faqs",
+      "status": "301 Moved Permanently Redirect: https://ask.gov.sg/ica?topic=Passport"
+    },
+    {
+      "url": "https://www.ica.gov.sg/eservicesandforms/ecert/download-digital-birth-certificate-extract",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/ecert/request/download/birthcertx"
+    },
+    {
+      "url": "https://www.ica.gov.sg/eservicesandforms/ecert/download-digital-death-extract",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/ecert/request/download/deathcertx"
+    },
+    {
+      "url": "https://www.ica.gov.sg/eservicesandforms/ecert/verify-digital-birth-certificate",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/ecert/request/verify/birth"
+    },
+    {
+      "url": "https://www.ica.gov.sg/eservicesandforms/ecert/verify-digital-birth-extract",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/ecert/request/verify/birthx"
+    },
+    {
+      "url": "https://www.ica.gov.sg/eservicesandforms/ecert/verify-digital-death-certificate",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/ecert/request/verify/death"
+    },
+    {
+      "url": "https://www.ica.gov.sg/eservicesandforms/ecert/verify-digital-death-extract",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/ecert/request/verify/deathx"
+    },
+    {
+      "url": "https://www.ica.gov.sg/eservicesandforms/ecert/verify-digital-stillbirth-extract",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/ecert/request/verify/sbx"
+    },
+    {
+      "url": "https://www.ica.gov.sg/eservicesandforms/ecert/verify-digital-stillbirth-certificate",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/ecert/request/verify/stillbirth"
+    },
+    {
+      "url": "https://www.ica.gov.sg/esvclandingpage/apples",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/apples"
+    },
+    {
+      "url": "https://www.ica.gov.sg/esvclandingpage/report-lost-dmg-ppt",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/applesOnlineReport"
+    },
+    {
+      "url": "https://www.ica.gov.sg/esvclandingpage/eabtc",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/eabtc"
+    },
+    {
+      "url": "https://www.ica.gov.sg/esvclandingpage/ecoa",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/ecoa"
+    },
+    {
+      "url": "https://www.ica.gov.sg/esvclandingpage/epr",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/epr"
+    },
+    {
+      "url": "https://www.ica.gov.sg/check-status-make-appointment/check-status-of-online-application/pr",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/epr"
+    },
+    {
+      "url": "https://www.ica.gov.sg/esvclandingpage/erep",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/erep"
+    },
+    {
+      "url": "https://www.ica.gov.sg/esvclandingpage/esc",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/esc"
+    },
+    {
+      "url": "https://www.ica.gov.sg/check-status-make-appointment/check-status-of-online-application/citizenship",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/esc"
+    },
+    {
+      "url": "https://www.ica.gov.sg/esvclandingpage/evp",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/evp"
+    },
+    {
+      "url": "https://www.ica.gov.sg/esvclandingpage/evpaa",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/evpaa"
+    },
+    {
+      "url": "https://www.ica.gov.sg/check-status-make-appointment/check-status-of-online-application/pmla",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/evpaa"
+    },
+    {
+      "url": "https://www.ica.gov.sg/esvclandingpage/evpaa/evpaa-pmla-advisory-page",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/evpaa?type=ladvisory"
+    },
+    {
+      "url": "https://www.ica.gov.sg/esvclandingpage/extend",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/extend"
+    },
+    {
+      "url": "https://www.ica.gov.sg/check-status-make-appointment/check-status-of-online-application/extend_short_stay",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/extend"
+    },
+    {
+      "url": "https://www.ica.gov.sg/esvclandingpage/extracts",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/extracts"
+    },
+    {
+      "url": "https://www.ica.gov.sg/check-status-make-appointment/check-status-of-online-application/extract",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/extracts"
+    },
+    {
+      "url": "https://www.ica.gov.sg/esvclandingpage/iconline",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/iconline"
+    },
+    {
+      "url": "https://www.ica.gov.sg/check-status-make-appointment/check-status-of-online-application/ic",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/iconline"
+    },
+    {
+      "url": "https://www.ica.gov.sg/esvclandingpage/save",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/save"
+    },
+    {
+      "url": "https://www.ica.gov.sg/check-status-make-appointment/check-status-of-online-application/entry-visa",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/save"
+    },
+    {
+      "url": "https://www.ica.gov.sg/esvclandingpage/solarplus",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/esvclandingpage/solarplus"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/myica",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/icsbip"
+    },
+    {
+      "url": "https://www.ica.gov.sg/eservicesandforms/ienquiry",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/ipienquiry/web/enquire/landing"
+    },
+    {
+      "url": "https://www.ica.gov.sg/checkic",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/ipienquiry/web/icheck/landing"
+    },
+    {
+      "url": "https://www.ica.gov.sg/checkpass",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/ipienquiry/web/verifi/landing"
+    },
+    {
+      "url": "https://www.ica.gov.sg/eservicesandforms/update-information",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/ipsolarplus/web/eupdate"
+    },
+    {
+      "url": "https://www.ica.gov.sg/eservicesandforms/sgarrivalcard",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/sgarrivalcard"
+    },
+    {
+      "url": "https://www.ica.gov.sg/eservicesandforms/sgac-cargo-landing-page",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/sgarrivalcard/cargo"
+    },
+    {
+      "url": "https://www.ica.gov.sg/eservicesandforms/search-e-pass-record",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/sgarrivalcard/epassenquiry"
+    },
+    {
+      "url": "https://www.ica.gov.sg/eservicesandforms/solar",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/solar/index.xhtml"
+    },
+    {
+      "url": "https://www.ica.gov.sg/check-status-make-appointment/check-status-of-online-application/passport",
+      "status": "301 Moved Permanently Redirect: https://eservices.ica.gov.sg/webserviceapi/esvc/apply/apples/EN/IP"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/SPF-Submit-Cash-(CBNI)-Declaration-e-727",
+      "status": "301 Moved Permanently Redirect: https://eservices5.police.gov.sg/e727/CBNIForm"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/spf-retrieve-void-cash-(cbni)-declaration-e-727",
+      "status": "301 Moved Permanently Redirect: https://eservices5.police.gov.sg/e727/voidreport"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/formsg--cx-panel-registration",
+      "status": "301 Moved Permanently Redirect: https://form.gov.sg/61090d0741dbd20012310487"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/formsg-confirmation-of-sc",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/confirmationofsc"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/mfa-e-register",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/eregister"
+    },
+    {
+      "url": "https://www.ica.gov.sg/feedbackform/apec-business-travel-card",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-abtc-enquiry"
+    },
+    {
+      "url": "https://www.ica.gov.sg/check-status-make-appointment/make-an-appointment/book-change-cancel-appointment",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-appointment"
+    },
+    {
+      "url": "https://www.ica.gov.sg/check-status-make-appointment/make-an-appointment",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-appointment"
+    },
+    {
+      "url": "https://www.ica.gov.sg/feedbackform/births-and-deaths",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-bd-enquiry"
+    },
+    {
+      "url": "https://www.ica.gov.sg/eservicesandforms/ecert/download-digital-birth-certificate",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-download-ebc"
+    },
+    {
+      "url": "https://www.ica.gov.sg/eservicesandforms/ecert",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-download-ebc"
+    },
+    {
+      "url": "https://www.ica.gov.sg/feedbackform/identity-card-enquiry",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-ic-enquiry"
+    },
+    {
+      "url": "https://www.ica.gov.sg/feedbackform/long-term-visit-pass",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-ltvp-enquiry"
+    },
+    {
+      "url": "https://www.ica.gov.sg/feedbackform/others",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-others-enquiry"
+    },
+    {
+      "url": "https://www.ica.gov.sg/feedbackform/passport",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-passport-enquiry"
+    },
+    {
+      "url": "https://www.ica.gov.sg/feedbackform/permanent-residence",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-pr-enquiry"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/formsg---ica---change-of-race-dialect",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-race-dialect"
+    },
+    {
+      "url": "https://www.ica.gov.sg/feedbackform/re-entry-permit",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-rep-enquiry"
+    },
+    {
+      "url": "https://www.ica.gov.sg/feedbackform/reporting-of-immigration-offenders",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-report-immigrationoffenders"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/formsg-report-death",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-report-overseas-death"
+    },
+    {
+      "url": "https://www.ica.gov.sg/feedbackform/singapore-citizenship",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-sc-enquiry"
+    },
+    {
+      "url": "https://www.ica.gov.sg/feedbackform/service-feedback",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-servicefeedback"
+    },
+    {
+      "url": "https://www.ica.gov.sg/feedbackform/extension-of-stay-short-term-visit-pass",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-stvp-enquiry"
+    },
+    {
+      "url": "https://www.ica.gov.sg/feedbackform/travel-information_formsg",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-travel-enquiry"
+    },
+    {
+      "url": "https://www.ica.gov.sg/feedbackform/entry-visa",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/ica-visa-enquiry"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/formsg---ica---change-of-race---dialect-(pr)",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/prraceanddialect"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/renunciationofpr",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/renunciationofpr"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/formsg--renunciation-sc",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/renunciationsc"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/formsg---request-for-right-of-entry-(roe)",
+      "status": "301 Moved Permanently Redirect: https://go.gov.sg/rightofentry"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/my-legacy---download-death-certificate",
+      "status": "301 Moved Permanently Redirect: https://mylegacy.life.gov.sg/when-death-happens/"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/app-links/lifesg-google-play",
+      "status": "301 Moved Permanently Redirect: https://play.google.com/store/apps/details?id=sg.gov.app.mol"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/app-links/myica-google-play",
+      "status": "301 Moved Permanently Redirect: https://play.google.com/store/apps/details?id=sg.gov.ica.mobile.app"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/msf---preparing-for-marriage",
+      "status": "301 Moved Permanently Redirect: https://safe.menlosecurity.com/https://www.msf.gov.sg/what-we-do/famatfsc/marriage-support"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/singapore-global-network",
+      "status": "301 Moved Permanently Redirect: https://singaporeglobalnetwork.gov.sg/join-us/"
+    },
+    {
+      "url": "https://www.ica.gov.sg/report-vulnerability",
+      "status": "301 Moved Permanently Redirect: https://tech.gov.sg/report_vulnerability"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/cda-yellow-fever-info-page",
+      "status": "301 Moved Permanently Redirect: https://www.cda.gov.sg/public/diseases/yellow-fever"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/register-LCA-with-ELD",
+      "status": "301 Moved Permanently Redirect: https://www.eld.gov.sg/voters_registerlca.html"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/border-security-immigration",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/border-security-immigration"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/border-security-immigration?target=item1",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/border-security-immigration?target=item1"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/border-security-immigration?target=item2",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/border-security-immigration?target=item2"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/border-security-immigration?target=item3",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/border-security-immigration?target=item3"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/border-security-immigration?target=item4",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/border-security-immigration?target=item4"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/guardians-of-our-borders",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/guardians-of-our-borders"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/guardians-of-our-borders?target=item1",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/guardians-of-our-borders?target=item1"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/guardians-of-our-borders?target=item2",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/guardians-of-our-borders?target=item2"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/guardians-of-our-borders?target=item3",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/guardians-of-our-borders?target=item3"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/guardians-of-our-borders?target=item4",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/guardians-of-our-borders?target=item4"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/guardians-of-our-borders?target=item5",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/guardians-of-our-borders?target=item5"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/guardians-of-our-borders?target=item6",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/guardians-of-our-borders?target=item6"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/national-registration-identification",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/national-registration-identification"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/national-registration-identification?target=item1",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/national-registration-identification?target=item1"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/national-registration-identification?target=item2",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/national-registration-identification?target=item2"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/national-registration-identification?target=item3",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/national-registration-identification?target=item3"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/national-registration-identification?target=item4",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/national-registration-identification?target=item4"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/organisational-history",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/organisational-history"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/organisational-history?target=item1",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/organisational-history?target=item1"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/organisational-history?target=item2",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/organisational-history?target=item2"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/organisational-history?target=item3",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/organisational-history?target=item3"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/organisational-history?target=item4",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/organisational-history?target=item4"
+    },
+    {
+      "url": "https://www.ica.gov.sg/heritage/Room/organisational-history?target=item5",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/about-us/our-heritage/Room/organisational-history?target=item5"
+    },
+    {
+      "url": "https://www.ica.gov.sg/docs/default-source/ica/ipses/sc-document-checklist",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/docs/default-source/ica/ipses/sc-document-checklist.pdf?sfvrsn=59b2792e_39"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/what-you-can-bring/remaintransfer",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/enter-depart/arriving/overview/what-you-can-bring/#remaintransfer"
+    },
+    {
+      "url": "https://www.ica.gov.sg/visitor/visitor_extendyourstay",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/enter-depart/extend_short_stay"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-depart/arriving/overview/what-you-can-bring/",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/enter-transit-depart/entering-singapore/what-you-can-bring"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/car-travellers-can-use-qr-code-for-faster-and-more-convenient-immigration-clearance-at-singapore-s-land-checkpoints-from-19-march-2024",
+      "status": "301 Moved Permanently Redirect: https://www.ica.gov.sg/news-and-publications/newsroom/media-release/car-travellers-can-use-qr-code-for-faster-and-more-convenient-immigration-clearance-at-singapore-s-land-checkpoints-from-19-march-2024"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/lifesg-website",
+      "status": "301 Moved Permanently Redirect: https://www.life.gov.sg/"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/mddi-personal-data-protection-laws-and-policies",
+      "status": "301 Moved Permanently Redirect: https://www.mddi.gov.sg/other-pages/personal-data-protection-laws-and-policies"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/singapore-overseas-mission",
+      "status": "301 Moved Permanently Redirect: https://www.mfa.gov.sg/Overseas-Missions"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/mom-main-page",
+      "status": "301 Moved Permanently Redirect: https://www.mom.gov.sg/"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/mom-nb",
+      "status": "301 Moved Permanently Redirect: https://www.mom.gov.sg/dp-newborn"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/hpb",
+      "status": "301 Moved Permanently Redirect: https://www.nir.hpb.gov.sg/fcine/#/navpage/faq"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reach",
+      "status": "301 Moved Permanently Redirect: https://www.reach.gov.sg"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/scamshield",
+      "status": "301 Moved Permanently Redirect: https://www.scamshield.gov.sg/i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/singpass-login-page",
+      "status": "301 Moved Permanently Redirect: https://www.singpass.gov.sg/home/ui/login"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/singpass-register-account",
+      "status": "301 Moved Permanently Redirect: https://www.singpass.gov.sg/home/ui/register/instructions"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/singpost-ica-services",
+      "status": "301 Moved Permanently Redirect: https://www.singpost.com/more-services/applications-collections/ica"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/ssg",
+      "status": "301 Moved Permanently Redirect: https://www.skillsfuture.gov.sg/pei"
+    },
+    {
+      "url": "https://www.ica.gov.sg/check-status-make-appointment/check-status-of-online-application/student&",
+      "status": "400 Bad Request"
+    },
+    {
+      "url": "https://www.ica.gov.sg/check-status-make-appointment/check-status-of-online-application/student&",
+      "status": "400 Bad Request"
+    },
+    {
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/democratic-people&",
+      "status": "400 Bad Request"
+    },
+    {
+      "url": "https://www.ica.gov.sg/reside/STP/change-of-particulars-for-student&",
+      "status": "400 Bad Request"
+    },
+    {
+      "url": "https://www.ica.gov.sg/redirect-links/ica&",
+      "status": "400 Bad Request"
+    },
+    {
+      "url": "https://www.ica.gov.sg/feedbackform/student&",
+      "status": "400 Bad Request"
+    },
+    {
+      "url": "https://www.ica.gov.sg/public-education/roll-out-of-e-pass-to-all-checkpoints-and-launch-of-ica&",
+      "status": "400 Bad Request"
+    },
+    {
+      "url": "https://www.ica.gov.sg/docs/default-source/ica/forms/change-of-local-address-of-long-term-visit-pass-student&",
+      "status": "400 Bad Request"
+    },
+    {
+      "url": "https://www.ica.gov.sg/public-education/roll-out-of-e-pass-to-all-checkpoints-and-launch-of-ica",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.ica.gov.sg/check-status-make-appointment/check-status-of-online-application/student",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.ica.gov.sg//www.ica.gov.sg",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.ica.gov.sg/docs/default-source/ica/stats/quarterly-bd-statistics/sdb-q4-oct_dec-2024.xlsx?sfvrsn=e676e744_3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.ica.gov.sg/docs/default-source/ica/stats/quarterly-bd-statistics/sdb-q3-jul---sep-2024.xlsx?sfvrsn=e311fdca_3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.ica.gov.sg/docs/default-source/ica/stats/quarterly-bd-statistics/sdb-q2-apr_jun-2024.xlsx?sfvrsn=3e0e670f_3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.ica.gov.sg/docs/default-source/ica/stats/quarterly-bd-statistics/sdb-q1-jan_mar-2024.xlsx?sfvrsn=6d229005_5",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.ica.gov.sg/docs/default-source/ica/stats/quarterly-bd-statistics/sdb-q4-oct_dec-2023.xlsx?sfvrsn=e17c26a_6",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.ica.gov.sg/docs/default-source/ica/stats/quarterly-bd-statistics/sdb-q3-jul_sep-2023.xlsx?sfvrsn=67780e93_4",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.ica.gov.sg/docs/default-source/ica/stats/quarterly-bd-statistics/sdb-q2-apr_jun-2023.xlsx?sfvrsn=b080cc2e_4",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.ica.gov.sg/docs/default-source/ica/stats/quarterly-bd-statistics/sdb-q1-jan---mar-2023.xlsx?sfvrsn=3e31a295_4",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.ica.gov.sg/docs/default-source/ica/stats/quarterly-bd-statistics/sdb-q4-oct_dec-2022.xlsx?sfvrsn=8047235c_4",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.ica.gov.sg/docs/default-source/ica/stats/quarterly-bd-statistics/sdb-q3-jul_sep-2022.xlsx?sfvrsn=75ae28fb_4",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.ica.gov.sg/docs/default-source/ica/stats/quarterly-bd-statistics/sdb-q2-apr_jun-2022.xlsx?sfvrsn=b51851ed_4",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.ica.gov.sg/docs/default-source/ica/stats/quarterly-bd-statistics/stats_sdb_q1_jan_mar-2022.xlsx?sfvrsn=6e3b32e_4",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.ica.gov.sg/docs/default-source/ica/stats/quarterly-bd-statistics/stats_sdb_q4_oct_dec_2021.xlsx?sfvrsn=9e7a5aeb_4",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.ica.gov.sg/docs/default-source/ica/stats/quarterly-bd-statistics/stats_sdb_q3_jul_sep_2021.xlsx?sfvrsn=65664a0a_4",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.ica.gov.sg/docs/default-source/ica/ipses/sc-document-checklist.pdf?sfvrsn=59b2792e_39",
+      "status": "content type is not text/html"
+    }
+  ]
+}
