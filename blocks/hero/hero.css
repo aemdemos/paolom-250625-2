@@ -1,6 +1,16 @@
+.hero-wrapper {
+  margin-top: 0;
+  padding-top: 0;
+}
+
 .hero-container .hero-wrapper {
   max-width: unset;
   padding: 0;
+}
+
+.hero-container {
+  margin-top: 0;
+  padding-top: 0;
 }
 
 .hero {
@@ -43,5 +53,159 @@
 @media (width >= 900px) {
   .hero {
     padding: 40px 32px;
+  }
+}
+
+.hero.hero23 {
+  background: linear-gradient(90deg, #f4f4f4 0%, #e6e6e6 100%);
+  border-radius: 8px;
+  box-shadow: 0 4px 24px 0 rgb(0 0 0 / 9%);
+  border: 4px solid #fff;
+  margin: 0 auto;
+  max-width: 100vw;
+  width: 100%;
+  min-width: 0;
+  overflow: visible;
+  padding: 0;
+  display: block;
+}
+
+/* Make the hero content row fill most of the block width, minimize side padding */
+.hero.hero23 > div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: stretch;
+  width: 100%;
+  min-width: 0;
+  padding: 56px 3vw;
+  gap: 80px;
+  min-height: 440px;
+  box-sizing: border-box;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+/* Make text column large, give image column more width */
+.hero.hero23 > div > div:first-child {
+  flex: 1 1 56%;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.hero.hero23 > div > div:last-child {
+  flex: 1 1 44%;
+  min-width: 0;
+  max-width: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+/* Make the image as large as possible in its column and remove accidental min-height or absolute positioning */
+.hero.hero23 picture,
+.hero.hero23 img {
+  display: block;
+  max-width: 600px;
+  width: 100%;
+  max-height: 440px;
+  height: auto;
+  object-fit: contain;
+  margin: 0 0 0 auto;
+  border-radius: 0;
+  box-shadow: none;
+  position: static;
+  z-index: auto;
+  inset: auto;
+  min-height: 0;
+}
+
+/* Large, bold, left-aligned typography for desktop */
+.hero.hero23 h1,
+.hero.hero23 h2,
+.hero.hero23 h3,
+.hero.hero23 h4,
+.hero.hero23 h5,
+.hero.hero23 h6 {
+  color: #233366;
+  text-align: left;
+  width: 100%;
+  font-size: 2.8em;
+  font-weight: 800;
+  line-height: 1.13;
+  margin: 0 0 22px;
+  max-width: 950px;
+}
+
+.hero.hero23 p {
+  color: #233366;
+  text-align: left;
+  width: 100%;
+  font-size: 1.28em;
+  margin: 0 0 15px;
+  max-width: 950px;
+  line-height: 1.25;
+}
+
+/* Button (yellow) */
+.hero.hero23 a,
+.hero.hero23 button {
+  background: #ffe066;
+  color: #233366;
+  font-weight: 700;
+  font-size: 1.23em;
+  border-radius: 8px;
+  border: none;
+  padding: 18px 54px;
+  margin-top: 40px;
+  margin-bottom: 22px;
+  text-align: center;
+  box-shadow: none;
+  display: inline-block;
+}
+
+/* Responsive: stack on small screens, reduce padding and image size */
+@media (width <= 900px) {
+  .hero.hero23 {
+    margin: 0;
+    border-radius: 0;
+    border-width: 2px;
+    max-width: 100vw;
+  }
+
+  .hero.hero23 > div {
+    flex-direction: column;
+    padding: 28px 3vw;
+    gap: 24px;
+    min-height: 0;
+    max-width: 100vw;
+  }
+
+  .hero.hero23 > div > div:first-child,
+  .hero.hero23 > div > div:last-child {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .hero.hero23 picture,
+  .hero.hero23 img {
+    width: 100%;
+    max-width: 340px;
+    max-height: 180px;
+    margin: 0 auto;
+  }
+
+  .hero.hero23 h1,
+  .hero.hero23 h2 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+
+  .hero.hero23 p {
+    font-size: 1em;
+    margin-bottom: 10px;
   }
 }
