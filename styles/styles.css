@@ -339,6 +339,13 @@ main .section.light, main .section.highlight {
   padding: 40px 0;
 }
 
+main .section.grey-grid {
+  background-image: url("../images/latticeBGDesktop.jpg");
+  background-size: 500px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 .section.hidden {
   display: none;
 }
