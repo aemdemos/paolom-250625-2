@@ -1,6 +1,7 @@
 footer {
-  background-color: var(--light-color);
-  font-size: var(--body-font-size-xs);
+  background-color: #141b4d;
+  font-size: 14px;
+  color: #fff;
 }
 
 footer .footer > div {
@@ -17,4 +18,42 @@ footer .footer p {
   footer .footer > div {
     padding: 40px 32px 24px;
   }
+}
+
+footer h2 {
+  font-size: 24px;
+}
+
+footer a:any-link {
+  color: #fff;
+}
+
+footer ul {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  padding: 0;
+}
+
+footer ul > li img {
+  height: 70px;
+  width: auto;
+}
+
+footer .section:first-of-type ul {
+  justify-content: end;
+}
+
+footer .section:first-of-type {
+  border-bottom: 1px solid #666;
+  font-size: 16px;
+}
+
+footer .section:last-of-type p:first-of-type {
+  text-align: right;
+}
+
+footer .section:last-of-type p:last-of-type {
+  text-align: center;
 }
