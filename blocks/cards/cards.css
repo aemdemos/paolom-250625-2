@@ -1,3 +1,4 @@
+/* Cards grid base styles */
 .cards > ul {
   list-style: none;
   margin: 0;
@@ -26,15 +27,20 @@
   object-fit: cover;
 }
 
+/* CARDS20 layout styles begin */
+.cards.cards20 {
+  width: 100%;
+}
+
 .cards.cards20 > ul {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  gap: 0;
+  gap: 48px;
+  width: 100%;
   padding: 0;
   margin: 0;
   list-style: none;
-  width: 100%;
   box-sizing: border-box;
 }
 
@@ -42,29 +48,21 @@
   margin: 0;
 }
 
-.cards.cards20 > ul > li:nth-child(2) .cards-card-body,
-.cards.cards20 > ul > li:nth-child(2) .cards-card-image {
-  margin: 0;
-}
-
-.cards.cards20 > ul > li:nth-child(3) .cards-card-body,
-.cards.cards20 > ul > li:nth-child(3) .cards-card-image {
-  margin: 0;
-}
-
 .cards.cards20 > ul > li:first-child {
-  flex: 0 0 39%;
+  flex: 0 0 400px;
   max-width: 420px;
-  min-width: 320px;
+  min-width: 300px;
   display: flex;
   flex-direction: column;
   align-items: stretch;
+  gap: 16px;
   padding: 0;
-  background: none;
+  background: #ddd;
   border: none;
-  min-height: 512px;
+  min-height: 520px;
   box-sizing: border-box;
-  margin-right: 48px;
+  margin-right: 0;
+  justify-content: flex-start;
 }
 
 .cards.cards20 > ul > li:first-child .cards-card-body:first-child {
@@ -159,41 +157,38 @@
   line-height: 1.35;
 }
 
-.cards.cards20 > ul > li:nth-child(2) {
+/* Merged nth-child(2) and nth-child(3) rules for news cards */
+.cards.cards20 > ul > li:nth-child(2),
+.cards.cards20 > ul > li:nth-child(3) {
   gap: 24px;
-  width: 100%;
-  margin-bottom: 0;
-  box-sizing: border-box;
   flex: 1 1 0;
   min-width: 240px;
   max-width: none;
   background: #fff;
   border: 1px solid #dedede;
+  box-sizing: border-box;
   display: flex;
   flex-direction: column;
+  margin-bottom: 0;
   margin-right: 24px;
+  width: 48%;
+  border-radius: 4px;
+  overflow: hidden;
+  vertical-align: top;
 }
 
 .cards.cards20 > ul > li:nth-child(3) {
-  flex: 1 1 0;
-  width: 50%;
-  min-width: 240px;
-  max-width: none;
-  background: #fff;
-  border: 1px solid #dedede;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
   margin-right: 0;
 }
 
+/* Merged nth-child(4) rules for traffic card below */
 .cards.cards20 > ul > li:nth-child(4) {
   width: 100%;
-  background: #ebecf0;
-  border-radius: 4px;
+  background: #e3e6ea;
+  border-radius: 6px;
   box-sizing: border-box;
-  padding: 2em 2em 1em;
-  margin-top: 32px;
+  padding: 24px;
+  margin-top: 24px;
   border: none;
   min-width: 0;
   display: block;
@@ -218,6 +213,20 @@
   text-decoration: underline;
 }
 
+/* Facebook header/tab (alternative selector for ID usage) */
+.cards.cards20 > ul > li:first-child .cards-card-body#facebook,
+.cards.cards20 > ul > li:first-child h3#facebook {
+  background: #151D43;
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 8px 24px 8px 0;
+  margin: 0;
+  border-bottom: 3px solid #151D43;
+  letter-spacing: 0.01em;
+}
+
+/* Responsive stacking for narrow screens */
 @media (width <= 900px) {
   .cards.cards20 > ul {
     flex-direction: column;
