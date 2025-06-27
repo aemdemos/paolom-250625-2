@@ -1,3 +1,4 @@
+
 .cards > ul {
   list-style: none;
   margin: 0;
@@ -24,4 +25,136 @@
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
+}
+
+.cards.cards15 {
+  background-color: #F7F7F7;
+  background-image:
+    linear-gradient(0deg, rgb(220 220 220 / 7%) 1px, transparent 1px),
+    linear-gradient(90deg, rgb(220 220 220 / 7%) 1px, transparent 1px);
+  background-size: 24px 24px;
+  padding: 28px 0 32px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.cards.cards15 > ul {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: center;
+  align-items: stretch;
+  list-style: none;
+  margin: 0 auto;
+  padding: 0 4px;
+  max-width: 1340px;
+  min-width: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.cards.cards15 > ul > li {
+  background: #fff;
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 3px 12px rgb(20 31 55 / 7%);
+  display: flex;
+  flex-direction: column;
+  width: 305px;
+  min-width: 160px;
+  max-width: 100%;
+  overflow: hidden;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+/* Top section: navy image frame */
+.cards.cards15 .cards-card-image {
+  background: #182A54;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 148px;
+  padding: 8px 4px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.cards.cards15 .cards-card-image picture,
+.cards.cards15 .cards-card-image img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  border-radius: 0;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+/* Bottom section: label area */
+.cards.cards15 .cards-card-body {
+  background: #fff;
+  padding: 14px 6px 8px;
+  min-height: 40px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  text-align: center;
+  margin: 0;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+/* Label text */
+.cards.cards15 .cards-card-body p,
+.cards.cards15 .cards-card-body strong {
+  color: #182A54;
+  font-size: 2rem;
+  font-family: Inter, 'Inter Fallback', Arial, sans-serif;
+  font-weight: 800;
+  margin: 0;
+  line-height: 1.08;
+  letter-spacing: -0.01em;
+  width: 100%;
+  text-align: center;
+}
+
+/* Responsive adjustments */
+@media (width <= 1100px) {
+  .cards.cards15 > ul {
+    gap: 12px;
+    max-width: 800px;
+    padding: 0 2px;
+  }
+
+  .cards.cards15 > ul > li {
+    width: 47%;
+    min-width: 140px;
+  }
+
+  .cards.cards15 .cards-card-image {
+    height: 110px;
+    padding: 4px 2px;
+  }
+}
+
+@media (width <= 700px) {
+  .cards.cards15 > ul {
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 0 1vw;
+  }
+
+  .cards.cards15 > ul > li {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .cards.cards15 .cards-card-body {
+    padding: 8px 2px 4px;
+  }
 }
