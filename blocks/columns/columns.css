@@ -7,6 +7,20 @@
   width: 100%;
 }
 
+.columns.columns24 img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 0;
+  margin: 0;
+  box-shadow: none;
+  background: transparent;
+  vertical-align: top;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+
 .columns > div > div {
   order: 1;
 }
@@ -17,6 +31,46 @@
 
 .columns > div > .columns-img-col img {
   display: block;
+}
+
+.columns.columns24 {
+  border: 4px solid #fff;
+  border-radius: 24px;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 6%);
+  background: #fff;
+  overflow: hidden;
+  margin: 16px auto;
+  padding: 0;
+  max-width: 100%;
+  display: block;
+}
+
+/* Ensure all wrappers collapse and don't add any extra height, spacing, or line-box */
+.columns.columns24 > div,
+.columns.columns24 > div > div,
+.columns.columns24 .columns-img-col,
+.columns.columns24 .columns-img-col > p,
+.columns.columns24 .columns-img-col > p > a,
+.columns.columns24 .columns-img-col > p > a > picture {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: none;
+  width: 100%;
+  display: block;
+  line-height: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+  min-height: 0;
+  min-width: 0;
+}
+
+/* Prevent any stray baseline alignment that could add whitespace */
+.columns.columns24 .columns-img-col > p,
+.columns.columns24 .columns-img-col > p > a,
+.columns.columns24 .columns-img-col > p > a > picture {
+  vertical-align: top;
 }
 
 @media (width >= 900px) {
