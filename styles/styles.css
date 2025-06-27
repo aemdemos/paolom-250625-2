@@ -28,7 +28,7 @@
   --heading-font-size-m: 16px;
   --heading-font-size-s: 13.28px;
   --heading-font-size-xs: 10.72px;
-  --nav-height: 64px;
+  --nav-height: 108px;
   --header-height: var(--nav-height);
 }
 
@@ -315,7 +315,7 @@ main>.section {
 }
 
 main>.section>div {
-  max-width: 1200px;
+  max-width: 1600px;
   margin: auto;
   padding: 0 24px;
 }
@@ -327,6 +327,8 @@ main>.section:first-of-type {
 @media (width>=900px) {
   main>.section>div {
     padding: 0 32px;
+    margin-top: 40px;
+    margin-bottom: 40px;
   }
 }
 
@@ -339,4 +341,8 @@ main .section.light, main .section.highlight {
 
 .section.hidden {
   display: none;
+}
+
+main {
+  margin-top: 30px;
 }

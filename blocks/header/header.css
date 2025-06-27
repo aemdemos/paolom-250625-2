@@ -4,6 +4,7 @@ header .nav-wrapper {
   width: 100%;
   z-index: 2;
   position: fixed;
+  border-top: 30px solid hsl(0, 0%, 94%);
 }
 
 header nav {
@@ -15,10 +16,11 @@ header nav {
   align-items: center;
   gap: 0 24px;
   margin: auto;
-  max-width: 1248px;
+  max-width: 1648px;
   height: var(--nav-height);
   padding: 0 24px;
   font-family: var(--body-font-family);
+  font-weight: 400;
 }
 
 header nav[aria-expanded='true'] {
@@ -35,7 +37,7 @@ header nav[aria-expanded='true'] {
     display: flex;
     justify-content: space-between;
     gap: 0 32px;
-    max-width: 1264px;
+    max-width: 1664px;
     padding: 0 32px;
   }
 
@@ -145,7 +147,7 @@ header .nav-brand {
 }
 
 header nav .nav-brand img {
-  width: 128px;
+  width: 176px;
   height: auto;
 }
 
@@ -166,7 +168,7 @@ header nav[aria-expanded='true'] .nav-sections {
 header nav .nav-sections ul {
   list-style: none;
   padding-left: 0;
-  font-size: var(--body-font-size-s);
+  font-size: 16px;
 }
 
 header nav .nav-sections ul > li {
@@ -220,8 +222,9 @@ header nav .nav-sections ul > li > ul > li {
 
   header nav .nav-sections ul {
     display: flex;
-    gap: 24px;
+    gap: 50px;
     margin: 0;
+    justify-content: end;
   }
 
   header nav .nav-sections .default-content-wrapper > ul > li {
@@ -265,4 +268,20 @@ header nav .nav-sections ul > li > ul > li {
 /* tools */
 header nav .nav-tools {
   grid-area: tools;
+}
+
+
+header nav .nav-tools .default-content-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+header nav .nav-tools .default-content-wrapper > * {
+  margin-left: 20px;
+}
+
+header a.button:any-link {
+  background-color: #910048;
+  border-radius: 5px;
+  font-size: 12px;
 }
